@@ -8,6 +8,8 @@ public class Ex4
     {
         Cat.f();
         System.out.println();
+        System.out.println();
+        System.out.println();
     }
 
 }
